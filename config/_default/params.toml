@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "alNotes"
+title = "Muslim's Notes"
 titleSeparator = "-"
-titleAddition = "alNotes Website"
-description = "Al Asaad's notes on religious studies"
+titleAddition = "Muslim's Notes Website"
+description = "Notes on religious studies by Al Asaad"
 
 ## Open Graph
 images = ["doks.png"]
