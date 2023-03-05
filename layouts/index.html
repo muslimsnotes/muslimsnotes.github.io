@@ -5,9 +5,9 @@
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.Lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/prologue/introduction/" | relURL }}" role="button">Get Started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
+      <p class="lead"><span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> {{ .Params.Lead | safeHTML }}<br><br>This site is authored by Al-Ahmadgaid B. Asaad.</p>
+      <!-- <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/prologue/introduction/" | relURL }}" role="button">Get Started</a>
+      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p> -->
     </div>
   </div>
 </section>
@@ -25,7 +25,7 @@
   </div>
 </div>
 {{ end -}}
-
+<!-- 
 <section class="section section-md mb-5">
   <div class="container">
     <div class="row justify-content-center text-center mt-lg-3">
@@ -71,7 +71,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 
 {{ define "sidebar-footer" }}
@@ -112,7 +112,7 @@
 </section>
 -->
 
-{{ partial "main/doks-sponsors.html" . -}}
+<!-- {{ partial "main/doks-sponsors.html" . -}} -->
 
 <!--
 <div class="d-flex justify-content-end mt-5">
@@ -125,31 +125,31 @@
     <div class="row justify-content-center align-items-center text-center mt-lg-3">
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
-        <h2 class="h4 mt-0">Manage the modern web</h2>
-        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it <a href="{{ "docs/help/how-to-update/" | relURL }}">easy to update</a> resources, build tooling, plugins, and build scripts.</p>
+        <h2 class="h4 mt-0">About the Author</h2>
+        <p>Mr. Asaad is a Statistician and researcher (<i>see</i> publication <a href="https://scholar.google.com/citations?user=CQq7qi0AAAAJ&hl=en&authuser=2">here</a>) working as a Manager of Advanced Analytics of the biggest Pharmaceutical company in the world. The articles he wrote here have nothing to do with his company. This site is his personal endeavour to studying religion, to spread peace, love, and truth.</p>
       </div>
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
-        <h2 class="h4 mt-0">Build your site your way</h2>
-        <p><a href="{{ "docs/prologue/introduction/" | relURL }}">Get started</a> with the islam or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
+        <h2 class="h4 mt-0">What's unique about <span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
+        <p>Apart from a timely, scholarly, and fair approach to studying religion, the website also provides a fresh perspective through the use of Statistics, Machine Learning, and Artificial Intelligence to studying scriptures and religions in general.<br><br></vr></p>
       </div>
 
       <div class="col-lg-7">
-        <p class="fs-4 mt-4">{{ ":gear:" | emojify }}</p>
-        <h2 class="h4 mt-0">Make Doks fully yours</h2>
-        <p>Multilingual and i18n support, versioned documentation support, KaTeX math typesetting, Mermaid diagrams and visualizations, highlight.js syntax highlighting, and more.</p>
+        <p class="fs-4 mt-4">{{ ":heart:" | emojify }}</p>
+        <h2 class="h4 mt-0">Invitation to dialogue</h2>
+        <p>Invite ˹all˺ to the Way of your Lord with wisdom and kind advice, and only debate with them in the best manner. Surely your Lord ˹alone˺ knows best who has strayed from His Way and who is ˹rightly˺ guided. ~ Qur'an 16:125</p>
       </div>
     </div>
   </div>
 </section>
 
-{{ partial "main/support-doks.html" . -}}
+<!-- {{ partial "main/support-doks.html" . -}} -->
 
 <section class="section section-sm mt-3 pt-3">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-12 col-lg-10 col-xl-8">
-        <h2 class="h3 mt-3 text-center">Latest from Doks blog</h2>
+        <h2 class="h3 mt-3 text-center">Latest from <span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> blog</h2>
         <div class="card-list">
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog")  -}}
         <div class="card">

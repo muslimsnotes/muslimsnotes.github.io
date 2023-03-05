@@ -1,1 +1,1 @@
-# Muslim's Notes
+# A Muslim'sNotes

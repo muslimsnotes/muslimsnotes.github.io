@@ -50,15 +50,16 @@
   url = "/christianity/introduction/"
   weight = 25
 
-# [[main]]
-#   name = "Islam"
-#   url = "/islam/introduction/"
-#   weight = 20
+[[main]]
+  name = "Islam"
+  url = "/islam/introduction/"
+  weight = 20
+  # parent = ""
 
-# [[main]]
-#   name = "Judaism"
-#   url = "/judaism/introduction/"
-#   weight = 30
+[[main]]
+  name = "Judaism"
+  url = "/judaism/introduction/"
+  weight = 30
 
 # [[main]]
 #   name = "Showcase"
@@ -108,11 +109,11 @@
 #   parent = "get-started"
 #
 # [[main]]
-#   name = "islam"
+#   name = "Islam"
 #   weight = 50
 #   identifier = "islam"
 #   url = "https://getdoks.org/islam/introduction/"
-#   parent = "get-started"
+#   # parent = "get-started"
 
 [[social]]
   name = "GitHub"
@@ -142,11 +143,12 @@
 #   url = "https://opencollective.com/doks"
 #   weight = 40
 
-# [[islam]]
-#   name = "islam"
-#   weight = 10
-#   identifier = "islam"
-#   url = "/islam/"
+[[islam]]
+  name = "Islam"
+  weight = 10
+  identifier = "islam"
+  url = "/islam/"
+  # parent = "get-started"
 
 [[christianity]]
   name = "Introduction"
@@ -172,10 +174,10 @@
 #   identifier = "judaism"
 #   url = "/judaism/"
 
-[[secondary]]
-  name = "Get Support"
-  url = "/docs/help/faq/#can-i-get-support"
-  weight = 10
+# [[secondary]]
+#   name = "Get Support"
+#   url = "/docs/help/faq/#can-i-get-support"
+#   weight = 10
 
 [[showcase]]
   name = "Browse"
