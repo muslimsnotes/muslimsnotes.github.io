@@ -561,7 +561,15 @@ $navbar-dark-active-color:          $link-color-dark;
   background-color: rgb(45,48,52);
 }
 
+[data-dark-mode] .quran-verse {
+  background-color: rgb(45,48,52);
+}
+
 [data-dark-mode] .bible-inline {
+  color: #dee2e6;
+}
+
+[data-dark-mode] .quran-inline {
   color: #dee2e6;
 }
 
@@ -571,4 +579,13 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] .bible-verse-no {
   background-color: #071e2e !important;
+}
+
+[data-dark-mode] .quran, .bible, .bible-hebrew {
+  display: block;
+  color: #bb9003;
+}
+
+[data-dark-mode] .emphasize {
+  color: #bb9003;
 }

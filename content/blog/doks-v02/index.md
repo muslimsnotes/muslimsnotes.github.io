@@ -1,107 +1,53 @@
 ---
-title: "Doks v0.2"
-description: "Version 0.2 is here! Introducing the Doks child theme, several DX + UX updates, and easily switching the main functionalities on/off (also optimizing your CSS + JS footprint)."
-lead: "Version 0.2 is here! Introducing the Doks child theme, several DX + UX updates, and easily switching the main functionalities on/off (also optimizing your CSS + JS footprint)."
-date: 2021-03-28T10:05:04+01:00
+title:  "Where is Trinity in the Old Testament?"
+description: "The goal of this article is to verify if the Christian belief of Trinity has fulfilment in the Old Testament."
+lead: "The goal of this article is to verify if the Christian belief of Trinity has fulfilment in the Old Testament."
+date:   2023-03-05T10:05:04+01:00
 lastmod: 2021-03-28T10:05:04+01:00
+categories: Answering Christianity Qur'an Ali-'Imran Al-Maidah Jesus Mary Maryam Matthew Mark Luke
 draft: false
 weight: 50
 images: []
-contributors: ["Henk Verlinde"]
+contributors: ["Al-Ahmadgaid B. Asaad"]
 ---
+<!-- 
+    <span class="tooltip">(A.S.)<span class="tooltiptext">ʿAlayhi as-salām, Arabic for "Peace be upon him", Muslim honorific.</span></span> 
+    <span class="tooltip">(S.W.T.)<span class="tooltiptext">Subhanahu wa ta'ala, Arabic for "May He be glorified and exalted", Muslim honorific.</span></span>
+    <span class="tooltip">(S.A.W.)<span class="tooltiptext">Ṣalla llāhu ʿalay-hi wa-alehe-wa-sallam, Arabic for "May Allah honour him and grant him peace", Muslim honorific.</span></span>
+-->
 
-## Doks child theme
+Assalamu ‘Alaikum (Peace be with you), may peace and blessings of the Almighty God be with you. If I said something that might go against you in the following discussion, I would like to sincerely ask for forgiveness. I know this topic is quite sensitive to discuss, but I will try my best to be respectful as much as possible. Thank you.
 
-Doks is now also released as a [npm package](https://www.npmjs.com/package/@hyas/doks), making it available as a dependency in the new [Doks child theme](https://github.com/h-enk/doks-child-theme). This means it's super easy to update when a new Doks version is released. Just run `npm update` — that's all. Of course, you can still use Doks as a starter, if that fits your use case better.
+Both the Jews and Muslims worship the same concept of God, an Absolute Monotheism (see here and here). However, unique to Christianity is the definition of God. They believe that God the Father is not the only true God, since God the Son and God the Holy Spirit are also considered true Gods. All three Gods define what they call as the Trinity. Moreover, Chritianity is built on top of Judaism, thus we can say that Christians consider the Old Testament as their reference truth, and they use this to justify their claims in the New Testament. This is indeed the interest of the paper.
 
-[Create a new site →]({{< relref "quick-start#create-a-new-site" >}})
+To formally state the objective of this work, my main goal in this paper is to validate, in the most honest way, if such a claim on the nature of God is true. Also, I would like to emphasize that the original text of the Bible is nowhere to be found, we only rely on what we have now, which mostly comes from the translations. So, if I use a particular translation below, it doesn’t mean that I favor such a translation, because I would still prefer to learn Hebrew and Aramaic, since these are the language of the prophets and the language which the translations were derived from.
 
-## Syntax highlighting
+## Universal Truth
+As I mentioned, Christianity uses the Old Testament as their reference truth to justify their claims in the New Testament. This simply means that anyone who challenges the claims of the Christians must prove by using the Old Testament as well. Therefore, we can say that the Universal Truth in this perspective can be summarized as follows:
 
-```json
-// Default Doks style
-[
-  {
-    "title": "apples",
-    "count": [12000, 20000],
-    "description": {"text": "...", "sensitive": false}
-  },
-  {
-    "title": "oranges",
-    "count": [17500, null],
-    "description": {"text": "...", "sensitive": false}
-  }
-]
-```
+Table 1: Universal truth on the relationship of Old and New Testaments.
+<table>
+    <thead>
+        <td><b>Old Testament</b></td>
+        <td><b>New Testament</b></td>
+        <td><b>Possibility</b></td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>True</td>
+            <td>True</td>
+            <td>Possible</td>
+        </tr>
+        <tr>
+            <td>True</td>
+            <td>False</td>
+            <td>Possible</td>
+        </tr>
+        <tr>
+            <td>False</td>
+            <td>True</td>
+            <td>Impossible</td>
+        </tr>
+    </tbody>
+</table>
 
-Doks now comes with [highlight.js](https://highlightjs.org/) as the default syntax highlighter. Use the default Doks style, or use one of the other available [higlight.js themes](https://highlightjs.org/static/demo/). Or you can still use [Chroma](https://gohugo.io/content-management/syntax-highlighting/) — the Hugo default — if you like.
-
-[How to add highlight.js →]({{< relref "highlight-js" >}})
-
-## Math typesetting
-
-Doks now supports math typesetting by making use of the [KaTeX](https://katex.org/) library. It is switched off per default. Activate it by setting `kaTex = true` in `./config/_default/params.toml`.
-
-[How to add KaTeX →]({{< relref "docs/extensions/katex" >}})
-
-## Breadcrumb navigation
-
-Doks now comes with breadcrumb navigation. It is switched off per default. Activate it by setting `breadCrumb = true` in `./config/_default/params.toml`.
-
-[How to add breadcrumb navigation →]({{< relref "breadcrumb-navigation" >}})
-
-## Options
-
-Now you can easily switch the main functionalities on/off in `./config/_default/params.toml` (also optimizing your CSS + JS footprint):
-
-```toml
-[options]
-  lazySizes = true
-  clipBoard = false
-  instantPage = true
-  flexSearch = true
-  darkMode = true
-  bootStrapJs = false
-  breadCrumb = false
-  highLight = true
-  kaTex = false
-```
-
-[Options →]({{< relref "project-configuration#options" >}})
-
-## Tables
-
-Doks now supports [Bootstrap styling](https://getbootstrap.com/docs/5.0/content/tables/) for tables in markdown.
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-{.table-striped}
-
-[Tables →]({{< relref "bootstrap#tables" >}})
-
-## Other features and fixes
-
-- Update to [Hugo v0.82](https://gohugo.io/news/0.82.0-relnotes/) (via [hugo-bin](https://www.npmjs.com/package/hugo-bin))
-- Update to [Bootstrap 5 Beta 3](https://blog.getbootstrap.com/2021/03/23/bootstrap-5-beta-3/)
-- Make [development server]({{< relref "development-tools#development-server" >}}) accessible by local IP address (handy for e.g. testing locally on mobile devices)
-- Add [Netlify DEV]({{< relref "development-tools#netlify-dev" >}}) support
-
-[Full changelog →](https://github.com/h-enk/doks/blob/master/CHANGELOG.md)
-
-## What's next
-
-- Better UX menus (both mobile + desktop)
-- Add multilingual support
-- Replace FlexSearch with Algolia Search + [Autocomplete v1](https://github.com/algolia/autocomplete)
-- Update documentation
-
-[Milestones →](https://github.com/h-enk/doks/milestones)
-
-## 250+ GitHub stars :star2::tada:
-
-Thanks for all contributions to documentation, features, bugfixes and discussions so far! Doks is going fast on its mission to make the easiest and most fun Hugo theme for building modern documentation websites.
-
-[Stargazers →](https://github.com/h-enk/doks/stargazers)

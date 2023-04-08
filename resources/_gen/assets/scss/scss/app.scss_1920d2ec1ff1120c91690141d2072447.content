@@ -15,7 +15,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i");
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400");
 @import url("https://fonts.googleapis.com/css?family=Saira+Condensed:200");
-@import url("https://fonts.googleapis.com/css?family=Amiri");
+@import url("https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Berkshire+Swash");
 @import url("https://fonts.googleapis.com/css?family=Reem+Kufi");
 @import url("https://fonts.googleapis.com/css?family=Aubrey");
@@ -10000,7 +10000,13 @@ $border-dark: darken($body-bg-dark, 2.5%);
 [data-dark-mode] .bible-verse {
   background-color: #2d3034; }
 
+[data-dark-mode] .quran-verse {
+  background-color: #2d3034; }
+
 [data-dark-mode] .bible-inline {
+  color: #dee2e6; }
+
+[data-dark-mode] .quran-inline {
   color: #dee2e6; }
 
 [data-dark-mode] .bible-verse-no.ot {
@@ -10008,6 +10014,13 @@ $border-dark: darken($body-bg-dark, 2.5%);
 
 [data-dark-mode] .bible-verse-no {
   background-color: #071e2e !important; }
+
+[data-dark-mode] .quran, .bible, .bible-hebrew {
+  display: block;
+  color: #bb9003; }
+
+[data-dark-mode] .emphasize {
+  color: #bb9003; }
 
 .alert {
   font-family: sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
@@ -10156,11 +10169,11 @@ div.section-wrapper {
 .quran-inline {
   line-height: 200%;
   text-align: right;
-  font-family: Scheherazade, serif; }
+  font-family: 'Amiri Quran', serif; }
 
 .quran {
   margin: 0 0 15px;
-  font-size: 20px; }
+  font-size: 25px; }
 
 .quran-inline {
   font-size: 15px; }
