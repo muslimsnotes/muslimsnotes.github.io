@@ -16,9 +16,9 @@ Sa pangalan ng Diyos, ang Panginoon ng Awa, ang Tagapagbigay ng Awa. Hayaan akon
 intensyon ang lahat para sa kapakanan ng katotohanan. Assalamu 'Alaikum! (ang kapayapaan ay sumaiyo!)
 
 Ang buhay ni Hesus (sumakanya nawa ang kapayapaan) ay may mahalagang papel sa Kristiyanismo at Islam.
-Ang dalawang relihiyon ay naniniwala kay Hesus (sumakanya nawa ang kapayapaan) bilang ang Mesiyas na ipinadala ng Diyos sa mga anak ni Israel.
+Ang dalawang relihiyon ay naniniwala kay Hesus (sumakanya nawa ang kapayapaan) bilang ang Mesiyas na ipinadala ng Diyos.
 Ang kanyang pagka-Diyos ay ang pangunahing paniniwala ng karamihan sa mga denominasyong Kristiyano sa buong mundo,
-ngunit tinanggihan ng Qur'an (ang banal na aklat ng Islam). <b>Kaya ang pangunahing tanong ay, si Hesus (sumakanya nawa ang kapayapaan) ay Diyos?</b>
+ngunit tinanggihan ng Qur'an (ang banal na aklat ng Islam). <b>Kaya ang pangunahing tanong ay, si Hesus (sumakanya nawa ang kapayapaan) ba ay Diyos?</b>
 
 Ang pahinang ito ay naglalayong magbigay ng maikling pangkalahatang-ideya ng Kristiyanismo bilang isang relihiyon.
 
