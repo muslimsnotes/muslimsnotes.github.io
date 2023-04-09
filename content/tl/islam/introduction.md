@@ -102,7 +102,7 @@ Ang Islam ay naniniwala sa maraming mga propeta na kinabibilangan, bukod sa iba 
             قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍۢ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
         </div>
         <div class="translation">
-            Kaya [kayong mga mananampalataya], sabihin, 'Kami ay naniniwala sa Diyos at sa kung ano ang ibinaba sa amin at kung ano ang ibinaba kay <span class="emphasize">Abraham</span>, <span class="emphasize">Ishmael</span>, <span class="emphasize">Isaac</span>, <span class="emphasize">Jacob</span>, at <span class="emphasize">the Tribes</span>, at kung ano ang ibinigay kay <span class="emphasize">Moses</span>, <span class="emphasize">Jesus</span>, at <span class="emphasize">lahat ng mga propeta</span> ng kanilang Panginoon. Wala kaming ginagawang pagkakaiba sa alinman sa kanila, at iniaalay namin ang aming sarili sa Kanya.'
+            Kaya [kayong mga mananampalataya], ihayag, 'Kami ay naniniwala sa Diyos at sa kung ano ang ibinaba sa amin at kung ano ang ibinaba kay <span class="emphasize">Abraham</span>, <span class="emphasize">Ishmael</span>, <span class="emphasize">Isaac</span>, <span class="emphasize">Jacob</span>, at <span class="emphasize">the Tribes</span>, at kung ano ang ibinigay kay <span class="emphasize">Moses</span>, <span class="emphasize">Jesus</span>, at <span class="emphasize">lahat ng mga propeta</span> ng kanilang Panginoon. Wala kaming ginagawang pagkakaiba sa alinman sa kanila, at iniaalay namin ang aming sarili sa Kanya.'
         </div>  
     </div>
     <div class="verse-no">
