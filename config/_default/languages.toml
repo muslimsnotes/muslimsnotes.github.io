@@ -1,0 +1,13 @@
+[en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 10
+  [en.params]
+    languageISO = "EN"
+
+[tl]
+  languageName = "Tagalog"
+  contentDir = "content/tl"
+  weight = 15
+  [de.params]
+    languageISO = "TL"

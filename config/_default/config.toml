@@ -72,3 +72,8 @@ rel  = "sitemap"
     keepVarNames = true
     noNullishOperator = false
     precision = 0
+
+# Multilingual
+defaultContentLanguage = "en"
+disableLanguages = ["tl"]
+# defaultContentLanguageInSubdir = true
