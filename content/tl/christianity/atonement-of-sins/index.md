@@ -12,7 +12,7 @@ menu:
 weight: 050
 toc: true
 ---
-Dahil ang lahat ng sangkatauhan ay mga makasalanang dumarating dahil sa orihinal na kasalanan, nangangailangan ito ng pagbabayad-sala upang mapatawad ng Diyos Ama. Alinsunod dito, nangangailangan ito ng pag-aalay upang mapatawad dahil ito ang kaugalian ng mga Hudyo sa Lumang Tipan.
+Dahil ang lahat ng sangkatauhan ay mga makasalanan dahil sa Orihinal na Kasalanan, nangangailangan ito ng pagbabayad-sala upang mapatawad ng Diyos Ama. Alinsunod dito, nangangailangan ito ng pag-aalay upang mapatawad dahil ayon sa mga Kristiyano ito ang kaugalian ng mga Hudyo sa Lumang Tipan.
 ## Sakripisyo ng Dugo
 Ang paghahain ng dugo ay kinakailangan para sa kapatawaran ng kasalanan gaya ng iminungkahi ng mga sumusunod na talata sa Lumang Tipan:
 <div class="bible-wrapper">

@@ -13,7 +13,7 @@ weight: 020
 toc: true
 ---
 
-Ang Trinidad ay ang pangalang ginamit ng mga trinitarian christians upang tukuyin ang kalikasan ng kanilang Diyos. Alinsunod dito, ang Diyos ay binubuo ng tatlong magkakahiwalay na nilalang sa isang diwa o isang pagka-Diyos. Ang mga natatanging nilalang na ito ay ang Diyos Ama, Diyos Anak at Diyos Espiritu Santo.
+Ang Trinidad ay ang pangalang ginamit ng mga Trinitarian Christians upang tukuyin ang kalikasan ng kanilang Diyos. Alinsunod dito, ang Diyos ay binubuo ng tatlong magkakahiwalay na nilalang sa isang diwa o isang pagka-Diyos. Ang mga natatanging nilalang na ito ay ang Diyos Ama, Diyos Anak at Diyos Espiritu Santo.
 
 ## Katibayan
 ### Lumang Tipan
@@ -35,7 +35,7 @@ Ang pangunahing katibayan nito sa Lumang Tipan ay ang paggamit ng pangmaramihang
   </div>  
 </div>
 
-Ang mga pangmaramihang panghalip na ito **us** at **our** ay katibayan ng maramihan ng Diyos, na taliwas sa isang ganap na nilalang.
+Ang mga pangmaramihang panghalip na ito ay ang **us** at **our** ay katibayan ng maramihan ng Diyos.
 
 ### Bagong Tipan
 Ang pangunahing katibayan nito sa Bagong Tipan ay ang Mateo 28:18-20 tulad ng ipinapakita sa ibaba:

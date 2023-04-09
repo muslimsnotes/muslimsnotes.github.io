@@ -18,7 +18,6 @@ Ang Kristiyanismo ang may pinakamaraming bilang ng mga denominasyon sa mga relih
 | Roman Catholic | naniniwala sa pagka-Diyos ni Maria (sumakanya nawa ang kapayapaan). |
 | Reformation Church | isang tipikal na protestante na naniniwala sa Trinity, ngunit hindi naniniwala sa pagka-Diyos ni Maria (sumakanya nawa ang kapayapaan). |
 | Iglesia ni Kristo | hindi sila naniniwala sa Trinity, naniniwala sila na ang Diyos Ama ang tanging tunay na diyos, ngunit sinasamba din nila si Hesus (sumakanya nawa ang kapayapaan). |
-| Jehovah's Witness | bukod sa Trinity, naniwala din sila sa Diyos Ina. |
-| Church of God | bukod sa Trinity, naniwala din sila sa Diyos Ina. |
+| Church of God | bukod sa Trinity, naniniwala din sila sa Diyos Ina. |
 | Mormons | isang nontrinitarian, Kristiyanong restorationist na simbahan na isinasaalang-alang ang sarili bilang ang pagpapanumbalik ng orihinal na simbahan na itinatag ni Jesu-Kristo. |
 {.table-striped}

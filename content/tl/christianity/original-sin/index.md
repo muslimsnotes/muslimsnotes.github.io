@@ -13,10 +13,10 @@ weight: 030
 toc: true
 ---
 
-Ang konsepto ng Orihinal na Kasalanan ay binibigyang kahulugan ng pangyayari kung saan kinain ni Adan at Eba (sumakanya nawa ang kapayapaan) ng ipinagbabawal na prutas. Ito ang unang kasalanang nagawa ng sangkatauhan at ito ang naging batayan ng Orihinal na Kasalanan ng Kristiyanismo, dahil ang kasalanang nagawa ay umaabot hanggang sa ikaapat na henerasyon, na ang mga kasalanan ay pinalawak din hanggang sa sumunod na apat na henerasyon, ayon sa pagkakabanggit. Sa kasong ito, ang lahat ng tao ay nagiging makasalanan.
+Ang konsepto ng Orihinal na Kasalanan ay binibigyang kahulugan ng pangyayari kung saan kinain ni Adan at Eba (sumakanila nawa ang kapayapaan) ng ipinagbabawal na prutas. Ito ang unang kasalanang nagawa ng sangkatauhan at ito ang naging batayan ng Orihinal na Kasalanan ng Kristiyanismo, dahil ang kasalanang nagawa ay umaabot hanggang sa ikaapat na henerasyon ayon sa Bibliya, na ang mga kasalanan ng ikaapat na henerasyon ay lalo pang pinalawak din hanggang sa sumunod na apat pa na henerasyon, ayon sa pagkakabanggit. Sa kasong ito, ang lahat ng tao ay nagiging makasalanan.
 
 ## Ang tukso ng ahas
-Ang unang kasalanan kung saan ginawa nina Adan at Eva (sumakanya nawa ang kapayapaan) ay inilalarawan mula sa mga sumusunod na talata kung saan si Eva ay tinukso ng ahas:
+Ang unang kasalanan kung saan ginawa nina Adan at Eva (sumakanila nawa ang kapayapaan) ay inilalarawan mula sa mga sumusunod na talata kung saan si Eva ay tinukso ng ahas:
 <div class="bible-wrapper">
   <div class="bible-verse">
     <div class="bible-hebrew">    

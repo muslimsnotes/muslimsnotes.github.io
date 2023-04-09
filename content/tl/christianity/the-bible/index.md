@@ -12,7 +12,7 @@ menu:
 weight: 015
 toc: true
 ---
-Ang Bibliya ay isang koleksyon ng mga aklat na isinulat ng mga eskriba na ayon dito ay kinasihan ng Banal na Espiritu. Ito ay nahahati sa dalawang pangunahing bahagi, ang Lumang Tipan at ang Bagong Tipan. Ang bawat aklat sa bibliya ay binubuo ng mga kabanata, at ang bawat kabanata ay binubuo ng mga talata.
+Ang Bibliya ay isang koleksyon ng mga aklat na isinulat ng mga eskriba na ayon dito ay kinasihan ng Banal na Espiritu. Ito ay nahahati sa dalawang pangunahing bahagi, ang Lumang Tipan at ang Bagong Tipan. Ang bawat aklat sa bibliya ay binubuo ng mga kabanata (o chapters), at ang bawat kabanata ay binubuo ng mga talata (o verses).
 
 ## Old Testament
 Ang Lumang Tipan ay ang Bibliyang Hebreo, ang banal na aklat ng mga Hudyo. Mayroon itong mga sumusunod na aklat:
