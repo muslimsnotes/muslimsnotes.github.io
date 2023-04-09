@@ -174,8 +174,8 @@
 #   url = "/judaism/"
 
 [[secondary]]
-  name = "Get Support"
-  url = "/docs/help/faq/#can-i-get-support"
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCUeCFlkKFiZBh9LIeG0QxPA"
   weight = 10
 
 [[showcase]]
