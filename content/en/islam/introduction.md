@@ -36,7 +36,7 @@ The nature of God in Islam is Absolute Monotheism, that is, Muslims believed in 
         </div>  
     </div>
     <div class="verse-no">
-        <div class="book" style="width:25%;">Oxford Translation</div>
+        <div class="book" style="width:25%;">Abdel Haleem</div>
         <div class="chapter" style="width:50%;">Al-Ikhlas (Sincerity)</div>
         <div class="chapter-verse" style="width:25%;">112:1-4</div>
     </div>  
@@ -55,7 +55,7 @@ Islam emphasizes that God is the Most Merciful, it does not require any human sa
         </div>  
     </div>
     <div class="verse-no">
-        <div class="book" style="width:25%;">Oxford Translation</div>
+        <div class="book" style="width:25%;">Abdel Haleem</div>
         <div class="chapter" style="width:50%;">Az-Zumar (The Throngs)</div>
         <div class="chapter-verse" style="width:25%;">39:53</div>
     </div>   
@@ -73,7 +73,7 @@ The Qur'an affirms the truth of the Torah and the Gospel as revelations given by
         </div>  
     </div>
     <div class="verse-no">
-        <div class="book" style="width:25%;">Oxford Translation</div>
+        <div class="book" style="width:25%;">Abdel Haleem</div>
         <div class="chapter" style="width:50%;">Al-'imran (The Family of 'Imran)</div>
         <div class="chapter-verse" style="width:25%;">3:3</div>
     </div>  
@@ -89,7 +89,7 @@ The Qur'an affirms the truth of the Torah and the Gospel as revelations given by
         </div>  
     </div>
     <div class="verse-no">
-        <div class="book" style="width:25%;">Oxford Translation</div>
+        <div class="book" style="width:25%;">Abdel Haleem</div>
         <div class="chapter" style="width:50%;">Al-Maidah (The Feast)</div>
         <div class="chapter-verse" style="width:25%;">5:46</div>
     </div>  
@@ -108,7 +108,7 @@ Islam believes in many prophets which include, among others, Adam, Noah, Abraham
         </div>  
     </div>
     <div class="verse-no">
-        <div class="book" style="width:25%;">Oxford Translation</div>
+        <div class="book" style="width:25%;">Abdel Haleem</div>
         <div class="chapter" style="width:50%;">Al-Baqarah (The Cow)</div>
         <div class="chapter-verse" style="width:25%;">2:136</div>
     </div>  
