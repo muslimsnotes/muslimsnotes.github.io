@@ -15,11 +15,6 @@ toc: true
 In the name of God, the Lord of Mercy, the Giver of Mercy. Let me begin with the sincerest
 intention all for the sake of truth. Assalamu 'Alaikum! (peace be upon you!)
 
-The life of Jesus (peace be with him) plays a pivotal role to both Christianity and Islam. 
-The two religions believed Jesus (peace be with him) as the Messiah sent by God to the children of Israel. 
-His divinity is the core belief of the majority of the Christian denominations around the world, 
-but is rejected by the Qur'an (the holy book of Islam). <b>So the main question is, is Jesus (peace be with him) God?</b>
-
 This page aims to provide a brief overview of Christianity as a religion.
 
 ## Nature of God
