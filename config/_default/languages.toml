@@ -9,5 +9,5 @@
   languageName = "Tagalog"
   contentDir = "content/tl"
   weight = 15
-  [de.params]
+  [tl.params]
     languageISO = "TL"
