@@ -12,7 +12,7 @@ menu:
 weight: 060
 toc: false
 ---
-Ang pagbabayad-sala ng mga kasalanan ay ginagawa sa pamamagitan ng pag-aalay ng tao, ayon dito, ang paghahain ng isang taong walang kasalanan na si Hesus (sumakanya nawa ang kapayapaan). Ang gawaing ito ng paghahandog ng tao sa Diyos ay tinatawag na pagpapako sa krus. Nasa ibaba ang talata mula sa aklat ni Juan na nagdedetalye ng bahagi ng kaganapan ng pagpapako sa krus.
+Ang pagbabayad-sala ng mga kasalanan ay ginagawa sa pamamagitan ng pag-aalay ng tao, ayon dito, ang paghahain ng isang taong walang kasalanan na si Hesus (sumakanya nawa ang kapayapaan). Ang gawaing ito ng paghahandog ng tao sa Diyos ay tinatawag na pagpapako sa krus. Nasa ibaba ang talata mula sa aklat ni Juan na nagdedetalye ng bahagi ng kaganapan ng pagpapako kay Jesus sa krus.
 <div class="bible-wrapper">
   <div class="bible-verse">
     <div class="bible">    

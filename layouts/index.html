@@ -5,7 +5,7 @@
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead"><span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> {{ .Params.Lead | safeHTML }}<br><br>
+      <p class="lead"><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> {{ .Params.Lead | safeHTML }}<br><br>
         {{ if eq .Site.Params.languageName "English" -}}
           <!-- This site is authored by Al Asaad. -->
         {{ else -}}  
@@ -142,10 +142,10 @@
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
         {{ if eq .Site.Params.languageName "English" -}}
-          <h2 class="h4 mt-0">What's unique about <span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
+          <h2 class="h4 mt-0">What's unique about <span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
           <p>Apart from a timely, scholarly, and fair approach to studying religion, the website also provides a fresh perspective through the use of Statistics, Machine Learning, and Artificial Intelligence to studying scriptures and religions in general.<br><br></vr></p>
         {{ else -}}
-          <h2 class="h4 mt-0">Ano ang unique sa <span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
+          <h2 class="h4 mt-0">Ano ang unique sa <span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
           <p>Bukod sa napapanahon, scholar, at patas na diskarte sa pag-aaral ng relihiyon, nagbibigay din ang website ng bagong pananaw sa pamamagitan ng paggamit ng Statistics, Machine Learning, at Artificial Intelligence sa pag-aaral ng mga banal na kasulatan at relihiyon.<br><br></vr></p>
         {{ end -}}
       </div>
@@ -170,7 +170,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-12 col-lg-10 col-xl-8">
-        <h2 class="h3 mt-3 text-center">Latest from <span style="color:#FFD56F;"><b>A</b></span><span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> blog</h2>
+        <h2 class="h3 mt-3 text-center">Latest from <span style="color:#939B62;"><b>Muslim's</b></span><span style="color:#FFB26B;"><b>Notes</b></span> blog</h2>
         <div class="card-list">
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog")  -}}
         <div class="card">

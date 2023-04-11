@@ -12,9 +12,9 @@ menu:
 weight: 050
 toc: true
 ---
-Dahil ang lahat ng sangkatauhan ay mga makasalanan dahil sa Orihinal na Kasalanan, nangangailangan ito ng pagbabayad-sala upang mapatawad ng Diyos Ama. Alinsunod dito, nangangailangan ito ng pag-aalay upang mapatawad dahil ayon sa mga Kristiyano ito ang kaugalian ng mga Hudyo sa Lumang Tipan.
+Sapagkat ang lahat ng sangkatauhan ay makasalanan dahil sa Original Sin, nangangailangan ito ng pagbabayad-sala upang mapatawad ng Diyos Ama. Alinsunod dito, nangangailangan ito ng pag-aalay upang mapatawad dahil ayon sa mga Kristiyano ito ang kaugalian ng mga Hudyo sa Lumang Tipan.
 ## Sakripisyo ng Dugo
-Ang paghahain ng dugo ay kinakailangan para sa kapatawaran ng kasalanan gaya ng iminungkahi ng mga sumusunod na talata sa Lumang Tipan:
+Ang paghahain ng dugo ay kinakailangan para sa kapatawaran ng kasalanan gaya ng iminungkahi ng sumusunod na talata sa Lumang Tipan:
 <div class="bible-wrapper">
   <div class="bible-verse">
     <div class="bible-hebrew">
@@ -30,7 +30,7 @@ Ang paghahain ng dugo ay kinakailangan para sa kapatawaran ng kasalanan gaya ng 
     <div class="chapter-verse">17:11</div>
   </div>  
 </div>
-Dagdag pa, ang isang mabuting handog ay dapat na isang walang kasalanan na nilalang. Alinsunod dito, dahil lahat tayo ay makasalanan, tanging si Hesus (sumakanya nawa ang kapayapaan) ang makakatugon sa mga kinakailangan para sa isang mabuting handog dahil siya ay walang kasalanan. Ito ang pangunahing pagtuturo ni St. Paul na sumulat ng karamihan sa mga huling aklat sa Bagong Tipan. Halimbawa, sa kanyang liham sa mga Romano:
+Ngayon, ang isang mabuting handog o alay para sa Diyos ay dapat isang nilalang, at yaong nilalang ay dapat walang kasalanan. Alinsunod dito, dahil lahat tayo ay makasalanan, tanging si Hesus (sumakanya nawa ang kapayapaan) ang makakatugon para sa isang mabuting alay dahil siya lang ang walang kasalanan. Ito ang pangunahing pagtuturo ni St. Paul na sumulat ng karamihan sa mga huling aklat sa Bagong Tipan. Halimbawa, sa kanyang liham sa mga Romano:
 <div class="bible-wrapper">
   <div class="bible-verse">
     <div class="bible">
