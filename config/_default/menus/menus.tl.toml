@@ -66,10 +66,10 @@
 #   url = "/showcase/"
 #   weight = 30
 
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 40
+[[main]]
+  name = "Research Papers"
+  url = "/blog/"
+  weight = 40
 
 # [[main]]
 #   name = "Community"

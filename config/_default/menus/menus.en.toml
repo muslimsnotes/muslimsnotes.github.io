@@ -66,10 +66,10 @@
 #   url = "/showcase/"
 #   weight = 30
 
-# [[main]]
-#   name = "Blog"
-#   url = "/blog/"
-#   weight = 40
+[[main]]
+  name = "Research Papers"
+  url = "/blog/"
+  weight = 40
 
 # [[main]]
 #   name = "Community"
@@ -161,9 +161,16 @@
   identifier = "understanding-christianity"
   url = "/christianity/the-bible/index"
 
+
+[[christianity]]
+  name = "Opinions About Christianity"
+  weight = 15
+  identifier = "opinions-about-christianity"
+  url = "/christianity/opinions-about-christianity/index"
+
 [[christianity]]
   name = "Crescent Project"
-  weight = 15
+  weight = 20
   identifier = "crescent-project"
   url = "/christianity/crescent-project/index"
 
