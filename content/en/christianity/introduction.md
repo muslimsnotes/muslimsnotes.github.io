@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   christianity:
-    parent: "christianity"
+    parent: "introduction"
 weight: 010
 toc: true
 ---

@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   christianity:
-    parent: "understanding-christianity"
+    parent: "introduction"
 weight: 050
 toc: true
 ---

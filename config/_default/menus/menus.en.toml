@@ -152,15 +152,14 @@
 [[christianity]]
   name = "Introduction"
   weight = 5
-  identifier = "christianity"
+  identifier = "introduction"
   url = "/christianity/"
 
 [[christianity]]
-  name = "Understanding Christianity"
+  name = "History"
   weight = 10
-  identifier = "understanding-christianity"
-  url = "/christianity/the-bible/index"
-
+  identifier = "history"
+  url = "/christianity/history/index"
 
 [[christianity]]
   name = "Opinions About Christianity"

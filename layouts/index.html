@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead"><span style="color:#939B62;"><b>Muslims</b></span><span style="color:#FFB26B;"><b>Notes</b></span> {{ .Params.Lead | safeHTML }}<br><br>
-        {{ if eq .Site.Params.languageName "English" -}}
+        {{ if eq .Site.Language.LanguageName "English" -}}
           <!-- This site is authored by Al Asaad. -->
         {{ else -}}  
           <!-- Ang site na ito ay isinulat ni Al Asaad. -->
@@ -130,7 +130,7 @@
     <div class="row justify-content-center align-items-center text-center mt-lg-3">
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
-        {{ if eq .Site.Params.languageName "English" -}}
+        {{ if eq .Site.Language.LanguageName "English" -}}
           <h2 class="h4 mt-0">About the Author</h2>
           <p>The author of this website is obviously a Muslim. He is from Mindanao, Philippines, currently working as a scientist and researcher in the biggest Pharmaceutical company in the world. The articles he wrote here have nothing to do with his company. This site is his personal endeavour to studying religion, to spread peace, love, and truth.</p>
         {{ else -}}
@@ -140,7 +140,7 @@
       </div>
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
-        {{ if eq .Site.Params.languageName "English" -}}
+        {{ if eq .Site.Language.LanguageName "English" -}}
           <h2 class="h4 mt-0">What's unique about <span style="color:#939B62;"><b>Muslims</b></span><span style="color:#FFB26B;"><b>Notes</b></span>?</h2>
           <p>Apart from a timely, scholarly, and fair approach to studying religion, the website also provides a fresh perspective through the use of Statistics, Machine Learning, and Artificial Intelligence to studying scriptures and religions in general.<br><br></vr></p>
         {{ else -}}
@@ -151,7 +151,7 @@
 
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":heart:" | emojify }}</p>
-        {{ if eq .Site.Params.languageName "English" -}}
+        {{ if eq .Site.Language.LanguageName "English" -}}
           <h2 class="h4 mt-0">Invitation to dialogue</h2>
           <p>[Prophet], call [people] to the way of your Lord with wisdom and good teaching. Argue with them in the most courteous way, for your Lord knows best who has strayed from His way and who is rightly guided. ~ Qur'an 16:125</p>
         {{ else -}}
