@@ -110,10 +110,14 @@ div.section-wrapper {
 
 .bible-hebrew-inline {
   font-size: 20px;
+  font-family: 'Frank Ruhl Libre', 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
+  direction: rtl;
 }
 
 .bible-aramaic-inline {
   font-size: 15px;
+  font-family: 'Frank Ruhl Libre', 'Estrangelo Edessa', 'Times New Roman', serif;
+  direction: rtl;
 }
 
 .quran,
@@ -147,8 +151,11 @@ div.section-wrapper {
   margin: 0 0 15px;
   font-size: 23px;
   line-height: $body-line-height;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Frank Ruhl Libre', 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
   text-align: right;
+  direction: rtl;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .emphasize-quran {
@@ -577,7 +584,7 @@ div.bible-verse-no.ot {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Economica:400,400i');
-@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400');

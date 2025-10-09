@@ -2,8 +2,8 @@
 title: "Overview ng Kristiyanismo"
 description: "Isang maikling pangkalahatang-ideya sa mga paniniwala ng Kristiyanismo"
 lead: "Isang maikling pangkalahatang-ideya sa mga paniniwala ng Kristiyanismo"
-date: 2023-04-8T20:11:42+01:00
-lastmod: 2023-04-8T20:11:42+01:00
+date: 2023-04-08T20:11:42+01:00
+lastmod: 2023-04-08T20:11:42+01:00
 draft: false
 images: []
 menu:
