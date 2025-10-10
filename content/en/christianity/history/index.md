@@ -19,6 +19,16 @@ toc: true
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script>
+// Function to get text color based on theme
+function getTextColor() {
+  return document.documentElement.hasAttribute('data-dark-mode') ? '#dee2e6' : '#212529';
+}
+
+// Function to get line color based on theme
+function getLineColor() {
+  return document.documentElement.hasAttribute('data-dark-mode') ? '#6c757d' : '#ccc';
+}
+
 // Timeline data
 const events = [
   { year: 30, event: "Crucifixion and Resurrection of Jesus", category: "Origin" },
@@ -70,10 +80,15 @@ const colorScale = d3.scaleOrdinal()
   .range(d3.schemeSet3);
 
 // Add Y axis
-svg.append("g")
-  .call(d3.axisLeft(yScale).tickFormat(d => `${d} AD`))
-  .selectAll("text")
-  .style("font-size", "12px");
+const yAxis = svg.append("g")
+  .call(d3.axisLeft(yScale).tickFormat(d => `${d} AD`));
+
+yAxis.selectAll("text")
+  .style("font-size", "12px")
+  .style("fill", getTextColor());
+
+yAxis.selectAll("path, line")
+  .style("stroke", getLineColor());
 
 // Add Y axis label
 svg.append("text")
@@ -82,6 +97,7 @@ svg.append("text")
   .attr("y", -60)
   .style("text-anchor", "middle")
   .style("font-size", "14px")
+  .style("fill", getTextColor())
   .text("Year");
 
 // Create tooltip
@@ -103,7 +119,7 @@ svg.append("line")
   .attr("x2", width / 2)
   .attr("y1", 0)
   .attr("y2", height)
-  .attr("stroke", "#ccc")
+  .attr("stroke", getLineColor())
   .attr("stroke-width", 2);
 
 // Add events
@@ -118,7 +134,7 @@ const eventGroups = svg.selectAll(".event")
 eventGroups.append("circle")
   .attr("r", 8)
   .attr("fill", d => colorScale(d.category))
-  .attr("stroke", "#333")
+  .attr("stroke", getTextColor())
   .attr("stroke-width", 2)
   .style("cursor", "pointer")
   .on("mouseover", function(event, d) {
@@ -160,6 +176,7 @@ eventGroups.append("text")
   .attr("dy", -5)
   .style("font-size", "11px")
   .style("font-weight", "bold")
+  .style("fill", getTextColor())
   .style("pointer-events", "none");
 
 // eventGroups.append("text")
@@ -210,6 +227,7 @@ svg.append("text")
   .attr("text-anchor", "middle")
   .style("font-size", "18px")
   .style("font-weight", "bold")
+  .style("fill", getTextColor())
   .text("Interactive Timeline of Christian History");
 
 // Legend (horizontal format in three rows)
@@ -239,6 +257,7 @@ categories.forEach((category, i) => {
     .attr("x", 15)
     .attr("y", 5)
     .style("font-size", "10px")
+    .style("fill", getTextColor())
     .text(category);
 
   // Calculate width for next item (text width + circle + spacing)
