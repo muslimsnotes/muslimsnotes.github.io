@@ -290,3 +290,16 @@ body {
 .translation {
   font-size: $font-size-sm;
 }
+
+.card-body {
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-sm;
+}
+
+.card-body p {
+  font-family: $font-family-serif;
+}
+
+.edit-page {
+  font-family: $font-family-sans-serif;
+}
